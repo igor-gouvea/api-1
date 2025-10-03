@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: iagouvea/api-1
   pullPolicy: IfNotPresent
-  tag: "9e6acc9"
+  tag: "0af50cf"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
