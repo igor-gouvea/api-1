@@ -2,14 +2,11 @@ deployment:
   name: api-1
   replicas: 1
   repository: iagouvea/api-1
-  tag: "9e6acc9"
-
-
+  tag: "fa5a7b6"
 service:
   name: api-1-svc
   type: ClusterIP
   port: 80
-
 ingress:
   enabled: true
   name: api-1-ingress
