@@ -20,3 +20,5 @@ spec:
   system: projeto-1
   dependencyOf:
     - component:default/website-1
+  dependsOn:
+    - resource:default/mysql
