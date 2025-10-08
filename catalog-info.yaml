@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: igor-gouvea/api-1
     backstage.io/techdocs-ref: dir:.
-    grafana/dashboard-selector: tag:api-1
+    grafana/dashboard-selector: api-1
   tags:
     - nodejs
     - api
